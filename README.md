@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-This repository includes files with Ruby that can be used to test the created main classes from the app
+This repository includes files with ruby that can be used to test the created main classes from the app
 
 Clone this link into your local device.
 
